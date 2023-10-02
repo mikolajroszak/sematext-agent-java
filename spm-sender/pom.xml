@@ -150,7 +150,7 @@
     <dependency>
       <groupId>org.apache.flume</groupId>
       <artifactId>flume-ng-core</artifactId>
-      <version>1.5.0</version>
+      <version>1.9.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.apache.avro</groupId>
@@ -201,7 +201,7 @@
     <dependency>
       <groupId>org.apache.flume</groupId>
       <artifactId>flume-ng-embedded-agent</artifactId>
-      <version>1.5.0</version>
+      <version>1.9.0</version>
       <exclusions>
         <exclusion>
           <groupId>commons-dbcp</groupId>
