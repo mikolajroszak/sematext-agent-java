@@ -201,7 +201,7 @@
     <dependency>
       <groupId>org.apache.flume</groupId>
       <artifactId>flume-ng-embedded-agent</artifactId>
-      <version>1.5.0</version>
+      <version>1.7.0</version>
       <exclusions>
         <exclusion>
           <groupId>commons-dbcp</groupId>
